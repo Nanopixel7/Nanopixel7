@@ -16,8 +16,5 @@ I'm currently working on Instant chatting app using only JavaScript and its libr
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nanopixel7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Nanopixel7&icon=0&color=0)](https://visitcount.itsvg.in)
