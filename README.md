@@ -1,4 +1,4 @@
-https://backend.codecrafters.io/progress/shell/f3a9cf9a-f4c0-475d-9d04-26c61c36eb12
+![](https://backend.codecrafters.io/progress/shell/f3a9cf9a-f4c0-475d-9d04-26c61c36eb12)
 # 💫 About Me:
 I'm currently working on Instant chatting app using only JavaScript and its libraries and frameworks.<br>I'm looking to collaborate on people who want to make open-source better place for everyone.<br>I'm looking for help with UI/UX design parts of my projects<br>I'm currently learning MongoDB.<br>Ask me about JavaScript, Node.js, Express.js, data-structures, html, css, React.<br>Fun fact: I spend much of my time just making code more efficient. Bad code already exists, we only need to make it more efficient.
 
